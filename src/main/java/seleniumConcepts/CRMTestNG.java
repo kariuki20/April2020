@@ -30,7 +30,7 @@ public class CRMTestNG {
 	
 	@BeforeTest
 	public void readConfig() {
-		
+		//I love this
 		Properties prop = new Properties();
 		//BufferReader  //FileReader  //InputSteam  //Scanner
 		
